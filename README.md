@@ -1,5 +1,5 @@
 
-### Olá, me chamo Leonardo de Lima Costa 👋
+### Olá 👋, Leonardo Costa
  * 💻 Sou desenvolvedor front-end.
  * ✏ Praticando diariamente.
  *  📚 Estudando Angular.
@@ -9,6 +9,7 @@
   <img height="190" src="https://github-readme-stats.vercel.app/api?username=devsleonardo&show_icons=true&theme=radical&include_all_commits=true&"/>
   <img height="190" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devsleonardo&show_icons=true&theme=radical&langs_count=10&layout=compact"/>
 </div>
+
 
 ##
 
@@ -27,11 +28,11 @@
  <img align="center" alt="html5" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
  <img align="center" alt="html5" src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white"/>
  <img align="center" alt="html5" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/>
+  
 </div>
- 
 
 ##
-* **Social**
+* **Conecte-se comigo**
 
 >Que tal nós conhecermos? Fale comigo!
 
@@ -39,3 +40,5 @@
 <a href="https://www.instagram.com/devsleonardo/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
 <a href="https://www.linkedin.com/in/devsleonardo/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 <a href = "mailto:usr.leonardo@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> 
+
+
