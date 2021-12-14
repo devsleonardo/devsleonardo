@@ -1,8 +1,11 @@
 
-### Olá 👋, Leonardo Costa
+### Olá <a href="https://github.com/devsleonardo"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>, Eu sou o Leonardo de Lima Costa
+
+
  * 💻 Sou desenvolvedor front-end.
  * ✏ Praticando diariamente.
- *  📚 Estudando Angular.
+ * 📚 Estudando Angular.
+ * 👨 Veja mais sobre meus projetos em [devsleonardo](https://github.com/devsleonardo?tab=repositories)
 ##
 
 <div>
