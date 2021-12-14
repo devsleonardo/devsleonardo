@@ -8,10 +8,12 @@
   
 
   <div>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=devsleonardo&show_icons=true&theme=onedark&locale=&count_private=true&"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devsleonardo&layout=compact&langs_count=7&theme=onedark&locale=&count_private=true&"/>
+  <img height="200" src="https://github-readme-stats.vercel.app/api?username=devsleonardo&show_icons=true&theme=radical&include_all_commits=true&"/>
+  <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devsleonardo&show_icons=true&theme=radical&langs_count=10&layout=compact"/>
+  
   </div>
- 
+
+
 ## Tecnologias que uso no meu dia a dia 🧠
  
 <div style="display: inline_block">
