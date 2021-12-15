@@ -4,6 +4,9 @@
  * 💻 Sou desenvolvedor front-end.
  * 📚 Atualmente estou estudando Angular.
  * 👨 Veja mais sobre meus projetos em [devsleonardo.](https://github.com/devsleonardo?tab=repositories)
+```
+npm install coffee
+```
 ##
 
 <div>
