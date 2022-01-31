@@ -20,7 +20,7 @@ console.log('Eu transformo café em código')
 ###  
 
 * **Tecnologias que uso no meu dia a dia**
->Todo dia é dia de Aprender algo novo.
+>Todo dia é dia de aprender algo novo.
   
   <p align="left"> 
    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
@@ -41,7 +41,7 @@ console.log('Eu transformo café em código')
 ##
 * **Conecte-se comigo**
 
->Que tal nós conhecermos? Fale comigo!
+>Que tal nós conhecermos? fale comigo!
 
 <a href="https://github.com/devsleonardo"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a> 
 <a href="https://www.instagram.com/devsleonardo/"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" ></a> 
