@@ -12,7 +12,7 @@ console.log('Eu transformo café em código')
 
 ##
 
-<div  align="center">
+<div >
    <img src="https://github.com/devsleonardo/pixel_art_-portrait/blob/main/art_pixel.png" alt="Leonardo Costa" width="180" height="180"/> </a> 
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=devsleonardo&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devsleonardo&show_icons=true&theme=radical&langs_count=10&layout=compact&include_all_commits"/>
