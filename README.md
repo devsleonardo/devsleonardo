@@ -1,15 +1,19 @@
 ### Olá <a href="https://github.com/devsleonardo"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>, Eu sou o Leonardo de Lima Costa
 
- * 💻 Sou desenvolvedor front-end.
- * 😎  Meu [portfólio.](https://leonardo-costa.web.app/#/)
- * 👨 Veja mais sobre meus projetos em [devsleonardo.](https://github.com/devsleonardo?tab=repositories)
+
+* 💻 Sou desenvolvedor front-end.
+* 😎  Meu [portfólio.](https://leonardo-costa.web.app/#/)
+* 👨 Veja mais sobre meus projetos em [devsleonardo.](https://github.com/devsleonardo?tab=repositories)
+
 
 ```js
 console.log('Eu transformo café em código')
 ```
+
 ##
 
-<div>
+<div  align="center">
+   <img src="https://github.com/devsleonardo/pixel_art_-portrait/blob/main/art_pixel.png" alt="Leonardo Costa" width="180" height="180"/> </a> 
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=devsleonardo&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devsleonardo&show_icons=true&theme=radical&langs_count=10&layout=compact&include_all_commits"/>
 </div>
