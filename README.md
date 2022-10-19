@@ -34,6 +34,7 @@ console.log('Eu transformo café em código')
    <a href="https://www.w3.org/html/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="html5" width="40" height="40"/> </a> 
    <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" alt="css3" width="40" height="40"/> </a> 
    <a href="https://getbootstrap.com" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" alt="bootstrap" width="40" height="40"/> </a>
+    <a href="https://www.telerik.com/" target="_blank"> <img src="https://i0.wp.com/filecr.com/wp-content/uploads/2022/03/telerik-icon.png" alt="Kendo Telerik" width="40" height="40"/> </a>
    <a href="https://sass-lang.com" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> 
    <a href="https://nodejs.org" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-plain.svg" alt="nodejs" width="40" height="40"/> </a> 
  <a href="https://git-scm.com/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain.svg" alt="git" width="40" height="40"/> </a>
