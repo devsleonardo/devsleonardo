@@ -12,14 +12,6 @@ console.log('Eu transformo café em código')
 
 ##
 
-<div >
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=devsleonardo&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devsleonardo&show_icons=true&theme=radical&langs_count=10&layout=compact&include_all_commits"/>
-</div>
-
-
-##
-
 ###  
 
 * **Tecnologias que uso no meu dia a dia**
@@ -59,5 +51,3 @@ console.log('Eu transformo café em código')
 <a href="https://www.instagram.com/devsleonardo/"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" ></a> 
 <a href="https://www.linkedin.com/in/devsleonardo/"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" ></a> 
 <a href="mailto:usr.leonardo@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> 
-
- <img src="https://github.com/devsleonardo/pixel_art_-portrait/blob/main/art_pixel.png" alt="Leonardo Costa" width="180" height="180"/> </a> 
